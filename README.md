@@ -1,2 +1,3 @@
 # didactic-guacamole
-This is a test repository deleting a few hours Please ignore
+New Upadate October 20 2015: 
+No longer a test repository but now a development of the New Operating System Phonix based on bsd and gnu code

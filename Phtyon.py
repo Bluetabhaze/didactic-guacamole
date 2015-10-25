@@ -1,1 +1,3 @@
-print ("hello world!")
+foo = ("Gladitaor, Chicken Nuggets  ")
+
+print ("foo")

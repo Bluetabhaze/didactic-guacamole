@@ -1,3 +1,8 @@
 # didactic-guacamole
-New Upadate October 20 2015: 
-No longer a test repository but now a development of the New Operating System Phonix based on bsd and gnu code
+New Upadate Novemeber 10 -:
+
+This project has now became a showcase of python3.5 projects in the works.
+
+It should be used to see the different skills sets in the usage of phyton.
+
+ 

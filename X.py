@@ -3,8 +3,7 @@
     #x = True
     #x = "Hello"
   #  print (x)
-    
-s = imput("Enter your name: ")
-while s!= "guit" =
-    print ("Hello" + s)
-    S=input  ("Enter your name:")
+
+
+s = input("Enter your name: ")
+print ('ur are un fagit ' + s)

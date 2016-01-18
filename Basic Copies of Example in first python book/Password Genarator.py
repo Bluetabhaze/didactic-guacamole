@@ -3,7 +3,7 @@ import random
 option=input("""Enter option for password (WRITE "help" for list):""")
 if option == "help" :
     print("""
-this program is used to save data 
+this program is used to read/write strong password 
 a is equal to add a new password.
 r is equal to read all the password
 d is equal to delete all the PASSWOrds 
